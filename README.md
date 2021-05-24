@@ -1,17 +1,7 @@
 # Gender-in-Equality
-● Using Pareto Analysis we got to know that main reasons for Gender Inequality are Illiteracy, Culture,
-Influence of Society and Gender Norms.
-● Using K-means clustering we studied gender inequality at the workplace and how people can be
-distributed in different clusters.
-● Using Decision trees we got to know who exactly in our research support paternity leave being
-made mandatory in all sectors.
-● Using Random Forest and A-Priori algorithm we studied disparities in both genders and what
-determines Men’s and Women’s role in society and their participation.
-● Using K-Modes clustering we got to know who among our respondents are aware about misuse of
-laws , mainly about laws which are biased against men and which leads to inequality.
-● Odds Ratio helped us to study how Covid-19 is impacting the inequality between both genders.
-Who are more likely to overwork, experience lack of sleep, spend more time cooking.
-● Using Sentiment and Text Classifier we analyzed opinions of people about how media influences
-inequality.
-● Using Factor Analysis we also got 2 factors viz Society and Domestic Levels which can help us work
-on how to promote equality.
+Rightly did Swami Vivekanand say, 'Just as a bird can not fly with one wing only, a Nation can not march forward if the women are left behind. Men and women are the two holes of a perfect whole. Strength is borne of their union; their separation results in weakness. Each has what the other does not have. Each completes the other and is completed by the other.
+Man and woman both are equal and play a paramount role in the creation and development of their families in particular and the society in general. Indeed, the struggle for equality has been one of the major concerns of the women's movement all over the world. Gender inequality is, therefore, a form of inequality that is distinct from other forms of socioeconomic inequalities. Gender inequality in India is a crucial reality.
+India has fallen 28 spots to rank 140th among 156 countries on the World Economic Forum's Global Gender Gap index. In 2020, India had ranked 112th among 153 countries on the index. The literacy rate in the country is 74.04%, 82.14% for males, and 65.46% for females.
+The gender pay gap in India refers to the difference in earnings between women and men in the paid employment and labor market. According to a report by TeamLease, more than 72% of women feel gender discrimination is still prevalent in the workplace. At 53 percentage points, India has one of the worst gender gaps (difference between the sexes) in the world when it comes to labor force participation a recent World Economic Forum report that only 14.3% of science researchers in India are women data from the National Sample Survey Organisation shows that the percentage of women working in finance, insurance, real estate, and business services, which includes information technology services, is only 13.4% across rural and urban populations. The report also said that the estimated earned income of women in India was one-fifth of men's, which put India among the bottom 10 countries globally on that indicator.
+The Indian Penal code, in its basic form, is the main criminal code of India, which lists all the cases and punishments that a person committing any crimes is liable to be charged with, and covers any Indian citizen or a person of Indian origin. The assumed mindset that all violence is male generated, does not only create a gender divide in the society but provides a shield to the crimes perpetrated by women.’While new data collection on the socioeconomic impacts of Covid-19 must prioritise sex-and age disaggregated data to measure the gendered impacts of the pandemic on adults and children, existing data suggests that Covid-19 will deepen existing gender inequalities’, from UNICEF website.
+Women commit crimes for the same reasons that men do. Crime has no gender, and neither should our laws.
